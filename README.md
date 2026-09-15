@@ -8,7 +8,6 @@ Technologies Used
 - NumPy
 - Pandas
 - Haar Cascade
-- FisherFace
 
 Key Features
 - Real-time face detection
