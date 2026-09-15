@@ -1,2 +1,2 @@
-# Image-Processing-Based-on-Emotion-Recognition-Mini-Project
-Image Processing Based on Emotion Recognition Mini Project
+Face Emotion Recognition Using Image Processing for Ambient Automation
+
