@@ -20,4 +20,6 @@ Project Contribution
 An existing face emotion recognition implementation was used as a base and modified and integrated with hardware to develop the ambient automation system as part of my major project.
 
 Project Demonstration
-A demonstration video is available separately.
+A demonstration video is available.
+
+https://drive.google.com/file/d/1vMNxlc1O_i9QthYYQbswoXctUdf2aOss/view?usp=drivesdk
